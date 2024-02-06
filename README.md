@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @APIpsq
-- 👀 I’m interested in code
-- 🌱 I’m currently learning python and C
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning python, C and JAVA
 - 💞️ I’m looking to collaborate on cybersecurity
 
 
